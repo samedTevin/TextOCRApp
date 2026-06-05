@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TextOCRApp</string>
+    <string-array name="languages">
+        <item>Latin</item>
+        <item>Chinese</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>Devanagari</item>
+    </string-array>
+</resources>
